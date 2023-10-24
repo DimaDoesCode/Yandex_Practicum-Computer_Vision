@@ -8,7 +8,7 @@
 
 The network supermarket "Bread and Salt" is implementing a computer vision system to process photos of customers. Photo capture at the checkout area will help determine the age of customers in order to:
 
-<i>○ Analyze purchases and suggest products that may interest customers in that age group.
+<i>○ Analyze purchases and suggest products that may interest customers in that age group.<br>
 ○ Monitor the cashiers' compliance with selling alcohol responsibly.</i>
 
 Build a model that will approximate a person's age based on a photo. You have a dataset of photos of people along with their age information at your disposal.
